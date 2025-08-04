@@ -1,2 +1,2 @@
 # HouseHunt
-New Pthon API notebook to find ideal house
+New Python API notebook to find ideal house
